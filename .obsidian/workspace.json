@@ -6,6 +6,7 @@
       {
         "id": "78732ba11f4a1a98",
         "type": "tabs",
+        "dimension": 58.69289340101523,
         "children": [
           {
             "id": "35c9df37f683edd9",
@@ -13,19 +14,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP 3566 Java III/Intro to Web Programming Architectures.md",
+                "file": "CP 1370 Distributed Computing/Class 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Intro to Web Programming Architectures"
+              "title": "Class 1"
+            }
+          },
+          {
+            "id": "1c6b74aaccfe3ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 1370 Distributed Computing/CP1370 Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CP1370 Syllabus"
+            }
+          },
+          {
+            "id": "2bddd90a6db10110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 1370 Distributed Computing/CP1370 Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CP1370 Syllabus"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cd8cf43a9078255d",
         "type": "tabs",
+        "dimension": 41.307106598984774,
         "children": [
           {
             "id": "dca928bb5f9cc53f",
@@ -33,12 +64,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP 3566 Java III/CP3566 Syllabus.md",
+                "file": "CP 3566 Java III/Intro to Web Programming Architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CP3566 Syllabus"
+              "title": "Intro to Web Programming Architectures"
+            }
+          },
+          {
+            "id": "f1cc2ff314660a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 1370 Distributed Computing/Hadoop.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hadoop"
             }
           },
           {
@@ -53,6 +98,18 @@
               },
               "icon": "lucide-file",
               "title": "Intro to Web Programming Architectures"
+            }
+          },
+          {
+            "id": "3694bbc0bfbb3175",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250113132324.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250113132324"
             }
           }
         ],
@@ -207,16 +264,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c9df37f683edd9",
+  "active": "2bddd90a6db10110",
   "lastOpenFiles": [
-    "CP 3566 Java III/CP3566 Syllabus.md",
-    "CP 1370 Distributed Computing/hadoop overview.md",
-    "CP 1370 Distributed Computing/Big data overview.md",
-    "CR 2980 Capstone/Syllabus.md",
-    "CP 3566 Java III/Intro to Web Programming Architectures.md",
-    "Untitled.md",
     "CP 1370 Distributed Computing/Class 1.md",
+    "CP 1370 Distributed Computing/Big data overview.md",
+    "Pasted image 20250113132308.png",
+    "Pasted image 20250113132324.png",
+    "Pasted image 20250113133543.png",
+    "Pasted image 20250113134012.png",
+    "Pasted image 20250113134305.png",
+    "assets",
+    "Pasted image 20250113132139.png",
+    "Pasted image 20250113132032.png",
+    "Pasted image 20250113131857.png",
+    "CP 1370 Distributed Computing/Hadoop.md",
+    "class 2.md",
+    "CP 1370 Distributed Computing/hadoop overview.md",
     "CP 1370 Distributed Computing/CP1370 Syllabus.md",
+    "CP 3566 Java III/Intro to Web Programming Architectures.md",
+    "CP 3566 Java III/CP3566 Syllabus.md",
+    "CR 2980 Capstone/Syllabus.md",
     "Pasted image 20250110125937.png",
     "CP 3010 Server Side Programming/CP3010 Syllabus.md",
     "Work Term Seminar",

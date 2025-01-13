@@ -1,11 +1,4 @@
-  
 
-of 5
-
-                     Automatic Zoom                     Actual Size                     Page Fit                     Page Width                                          50%                     75%                     100%                     125%                     150%                     200%                     300%                     400%                   
-
-© College of the North Atlantic CP1370 Page 1 of 5  
-Course Information for 2024 - 2025  
 COURSE NUMBER: CP1370  
 COURSE TITLE: Distributed Computing  
 COURSE DESCRIPTION:  
@@ -37,30 +30,27 @@ Perrin, J. Spark in Action, Second Edition (2020). Manning Publications. Print I
 
 © College of the North Atlantic CP1370 Page 2 of 5  
 # MAJOR TOPICS:  
-1.0 Concepts of Distributed Computing  
-2.0 Spark Core  
-3.0 Spark SQL  
-4.0 Spark Streaming  
-LEARNING OBJECTIVES:  
-1.0 Concepts of Distributed Computing  
-1.1 Define distributed computing  
-1.1.1 Explain the principles of distributed computing  
-1.1.2 Discuss parallelism, fault tolerance, and scalability  
-1.1.3 Provide examples of scenarios where distributed computing is  
-advantageous  
-1.2 Describe the architecture and components of the Hadoop ecosystem  
-1.2.1 Examine the core components of Hadoop, including:  
-1.2.1.1 HDFS  
-1.2.1.2 MapReduce  
-1.2.1.3 YARN  
-1.2.2 Describe the roles of Hadoop components in a cluster  
-1.2.3 Explain the advantages of using the Hadoop ecosystem for distributed  
-computing  
-1.3 Work with Hadoop Distributed File System (HDFS)  
-1.3.1 Explore the structure of HDFS  
-1.3.2 Interact with HDFS through command-line tools  
-1.3.3 Discuss the importance of data replication in HDFS and its impact on fault  
-tolerance  
+1. Concepts of Distributed Computing  
+2. Spark Core  
+3. Spark SQL  
+4. Spark Streaming  
+## LEARNING OBJECTIVES:  
+1. Concepts of Distributed Computing  
+	1. Define distributed computing  
+		1. Explain the principles of distributed computing  
+		2. Discuss parallelism, fault tolerance, and scalability  
+		3. Provide examples of scenarios where distributed computing is advantageous  
+	2. Describe the architecture and components of the Hadoop ecosystem  
+		1. Examine the core components of Hadoop, including:  
+			1. HDFS  
+			2. MapReduce  
+			3. YARN  
+		2. Describe the roles of Hadoop components in a cluster  
+		3. Explain the advantages of using the Hadoop ecosystem for distributed computing  
+	3. Work with Hadoop Distributed File System (HDFS)  
+		1. Explore the structure of HDFS  
+		2. Interact with HDFS through command-line tools  
+		3. Discuss the importance of data replication in HDFS and its impact on fault tolerance  
 1.4 Set up a Virtual Hadoop environment  
 1.4.1 Configure Hadoop on a multi-node cluster  
 1.4.2 Perform cluster management and security considerations  
