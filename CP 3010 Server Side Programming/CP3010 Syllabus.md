@@ -1,0 +1,3 @@
+- going to be primarily using express.js 
+- using a mongo db database
+- utilizing node.js
