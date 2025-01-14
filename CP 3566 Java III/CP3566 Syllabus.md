@@ -1,7 +1,9 @@
-  
-COURSE NUMBER: CP3566  
-COURSE TITLE: Applied Java Programming  
-COURSE DESCRIPTION:  
+**COURSE NUMBER:** CP3566
+
+**COURSE TITLE:** Applied Java Programming  
+
+**COURSE DESCRIPTION:** 
+
 This is the third course in the Java sequence and will extend a student’s Java knowledge to  
 include web applications. Many of today’s popular Java web frameworks are built on top of the  
 Servlet and Jakarta Server Page specifications and base libraries. To fully understand how these  
@@ -12,26 +14,34 @@ techniques to manipulate databases using Java Database Connectivity (JDBC), and 
 of web components utilizing the latest Java web frameworks (examples may include Spring,  
 Struts, Java Server Faces, GWT, etc.). Students will demonstrate deploying web-based  
 frameworks that are secure and stable and fully support API and web services.  
-PREREQUISITES: CP2561 – Java Programming II  
+
+**PREREQUISITES:** 
+CP2561 – Java Programming II  
 CP3416 – Database Management Systems II  
-CO-REQUISITES: None  
-CREDIT VALUE: Four (4)  
-COURSE HOURS PER WEEK: Three (3)  
-LAB HOURS PER WEEK: Two (2)  
-REQUIRED TEXT: None  
-LEARNING RESOURCES:  
+
+**CO-REQUISITES:** None  
+
+**CREDIT VALUE:** Four (4)  
+
+**COURSE HOURS PER WEEK**: Three (3)  
+**LAB HOURS PER WEEK:** Two (2)  
+
+**REQUIRED TEXT:** None  
+
+**LEARNING RESOURCES:**
 Deitel, P., & Deitel, H. (2018). Java - How to program (11 th ed.). New Jersey: Prentice-Hall.  
 ISBN 0-13-474335-0  
 Morelli, R., & Walde, R. Java, Java, Java Object-Oriented Problem Solving (3rd ed.). Free pdf.  
 ISBN: 0-13-147434-0  
-MAJOR TOPICS:  
+
+## MAJOR TOPICS:  
 1. Web Programming Architecture
 2. Using Databases in a Java Web Framework  
 3. JSP and Servlet programming  
 4. JAX-RS Web Services  
 5. Advanced Java Framework programming
 
-LEARNING OBJECTIVES:  
+## LEARNING OBJECTIVES:  
 1. Web Programming Architecture  
 	1. Discuss client-side technologies such as (but not limited to):  
 		1. HTML  

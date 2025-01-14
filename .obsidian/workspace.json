@@ -8,83 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35c9df37f683edd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP 1370 Distributed Computing/Class 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Class 1"
-            }
-          },
-          {
             "id": "2bddd90a6db10110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CP 1370 Distributed Computing/Hadoop.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Hadoop"
+            }
+          },
+          {
+            "id": "d6e42e406cbf52ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 1370 Distributed Computing/Hadoop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hadoop"
+            }
+          },
+          {
+            "id": "9fdfe7484e69427d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 1370 Distributed Computing/Hadoop.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Hadoop"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "023358e1508fadb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afb6ce7deb4aa8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP 1370 Distributed Computing/Hadoop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hadoop"
-            }
-          },
-          {
-            "id": "111387258cde4e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP 1370 Distributed Computing/Hadoop.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hadoop"
-            }
-          },
-          {
-            "id": "1c6b74aaccfe3ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP 1370 Distributed Computing/CP1370 Syllabus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CP1370 Syllabus"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,27 +201,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb6ce7deb4aa8c8",
+  "active": "9fdfe7484e69427d",
   "lastOpenFiles": [
-    "CP 1370 Distributed Computing/hadoop overview.md",
-    "CP 1370 Distributed Computing/Hadoop.md",
-    "CP 1370 Distributed Computing/Class 1.md",
+    "map reduce class 3.md",
     "CP 1370 Distributed Computing/CP1370 Syllabus.md",
-    "CP 1370 Distributed Computing/Big data overview.md",
-    "Pasted image 20250113132308.png",
-    "Pasted image 20250113132324.png",
     "Pasted image 20250113133543.png",
     "Pasted image 20250113134012.png",
     "Pasted image 20250113134305.png",
+    "Pasted image 20250114105812.png",
+    "Pasted image 20250114110342.png",
+    "Pasted image 20250114110111.png",
+    "Pasted image 20250114105800.png",
+    "CP 1370 Distributed Computing/Hadoop.md",
+    "CP 3566 Java III/CP3566 Syllabus.md",
+    "CP 3566 Java III/Intro to Web Programming Architectures.md",
+    "CP 1370 Distributed Computing/Big Data Overview.md",
+    "CP 1370 Distributed Computing/Class 1.md",
+    "CP 1370 Distributed Computing/hadoop overview.md",
+    "Pasted image 20250113132308.png",
+    "Pasted image 20250113132324.png",
     "assets",
     "Pasted image 20250113132139.png",
-    "Pasted image 20250113132032.png",
-    "Pasted image 20250113131857.png",
     "class 2.md",
-    "CP 3566 Java III/Intro to Web Programming Architectures.md",
-    "CP 3566 Java III/CP3566 Syllabus.md",
     "CR 2980 Capstone/Syllabus.md",
-    "Pasted image 20250110125937.png",
     "CP 3010 Server Side Programming/CP3010 Syllabus.md",
     "Work Term Seminar",
     "CP 3000 Emerging Trends",

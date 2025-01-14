@@ -1,7 +1,9 @@
+**COURSE NUMBER:** CP1370 
 
-**COURSE NUMBER:** CP1370  
 **COURSE TITLE:** Distributed Computing  
-**COURSE DESCRIPTION:**  
+
+**COURSE DESCRIPTION:** 
+
 This course aims to equip students with a rounded comprehension of Distributed Computing and  
 Apache Spark. It covers a spectrum of concepts and practical implementations, showing the core  
 principles of distributed computing and their integration within modern data processing  
@@ -16,23 +18,32 @@ distributed computing landscapes adeptly while harnessing the capabilities offer
 Spark.
 
 **PREREQUISITES:** 
-- CP2280 - Object-Oriented Programming in Java  
-- CP1895 – Advanced Python Programming  
+CP2280 - Object-Oriented Programming in Java  
+CP1895 – Advanced Python Programming  
+
 **CO-REQUISTIES:** None  
 
 **CARGANIE UNIT:** Three (3)  
-**CREDIT VALUE:** Four (4)  
-**COURSE HOURS PER WEEK:** Three (3)  
-**LAB HOURS PER WEEK:** Three (3)  
+**CREDIT VALUE:** Four (4) 
+
+|Lecture Type  |credit hours   |
+|---|---|
+|COURSE HOURS PER WEEK:| Three (3)  |
+|LAB HOURS PER WEEK: |Three (3)  |
+|Total|Six (6)|
 
 **REQUIRED TEXT:**  
-Hien, L. Beginning Apache Spark 3. (2021). Apress. Print ISBN: 9781484273821, eText ISBN:  
-9781484273838
+***Hien, L. Beginning Apache Spark 3. (2021)***. 
+Apress. 
+Print ISBN: 9781484273821
+eText ISBN: 9781484273838
 
 **LEARNING RESOURCES**:  
-Perrin, J. Spark in Action, Second Edition (2020). Manning Publications. Print ISBN:  
-9781617295522, eText ISBN: 9781638351306
-# MAJOR TOPICS:  
+***Perrin, J. Spark in Action, Second Edition (2020)***. 
+Manning Publications. 
+Print ISBN:  9781617295522
+eText ISBN: 9781638351306
+## MAJOR TOPICS:  
 1. Concepts of Distributed Computing  
 2. Spark Core  
 3. Spark SQL  
@@ -46,8 +57,8 @@ Perrin, J. Spark in Action, Second Edition (2020). Manning Publications. Print I
 	2. Describe the architecture and components of the Hadoop ecosystem  
 		1. Examine the core components of [Hadoop](Hadoop), including:  
 			1. [HDFS](Hadoop#HDFS)
-			2. MapReduce  
-			3. YARN  
+			2. [MapReduce](Hadoop#MapReduce)  
+			3. [YARN](Hadoop#YARN)  
 		2. Describe the roles of Hadoop components in a cluster  
 		3. Explain the advantages of using the Hadoop ecosystem for distributed computing  
 	3. Work with Hadoop Distributed File System (HDFS)  
