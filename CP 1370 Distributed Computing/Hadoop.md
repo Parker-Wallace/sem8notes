@@ -2,7 +2,10 @@
 
 *GeeksforGeeks article*
 
-Hadoop is a framework of the open source set of tools used to manage, store and process data for big data appliations running under a clustered system. 
+Hadoop is a *java based* framework of the open source set of tools used to manage, store and process data for big data appliations running under a clustered system. 
+
+- It is the de facto standard for most big data storage and processing
+>[!note] once data is written to Hadoop it is *immutable*
 
 ## 5 V's of big data
 
@@ -15,3 +18,34 @@ Hadoop is a framework of the open source set of tools used to manage, store and 
     - **Semi Structured Data:** Log files are the examples of this type of data.
 5. **Veracity:** Inconsistent or incomplete data which results in the generation of doubtful or uncertain Information.
 6. **Value:**  Data in itself is of no use or importance but it needs to be converted into something valuable to extract Information.
+
+# HDFS
+- stands for the *Hadoop Distributed File System*
+- designed to run on commodity software
+- highly fault tolerant
+- designed to be deployed on low cost hardware
+- high throughput access to application data for applications that have large data sets. 
+- originally built as infrastructure for the Apache Nutch web Search engine project.
+- [Project URL](https://hadoop.apache.org/hdfs/).
+# MapReduce
+- if HDFS is responsible for *storing* the file, MapReduce is the second component which is responsible for processing the file
+- MapReduce has mainly 2 tasks which are divided into the *map* and *reduce* phase
+
+```mermaid
+---
+title: Map and Reduce Interfaces
+---
+flowchart LR
+A[("big Data
+	(input)")]
+B("Map()")
+C("Map()")
+D("Map()")
+E("reduce()")
+F("Reduce()")
+G[Output]
+A --> B & C & D --> E & F --> G
+```
+
+# YARN
+- stands for *Yet another Resource Negotiator*
