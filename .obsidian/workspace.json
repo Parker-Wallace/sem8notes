@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP 1370 Distributed Computing/Hadoop.md",
+                "file": "CP 3000 Emerging Trends/syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hadoop"
+              "title": "syllabus"
             }
           }
         ],
@@ -203,6 +203,8 @@
   },
   "active": "9fdfe7484e69427d",
   "lastOpenFiles": [
+    "CP 1370 Distributed Computing/Hadoop.md",
+    "CP 3000 Emerging Trends/syllabus.md",
     "map reduce class 3.md",
     "CP 1370 Distributed Computing/CP1370 Syllabus.md",
     "Pasted image 20250113133543.png",
@@ -212,7 +214,6 @@
     "Pasted image 20250114110342.png",
     "Pasted image 20250114110111.png",
     "Pasted image 20250114105800.png",
-    "CP 1370 Distributed Computing/Hadoop.md",
     "CP 3566 Java III/CP3566 Syllabus.md",
     "CP 3566 Java III/Intro to Web Programming Architectures.md",
     "CP 1370 Distributed Computing/Big Data Overview.md",
