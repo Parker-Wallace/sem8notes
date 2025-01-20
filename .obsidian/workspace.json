@@ -4,53 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "78732ba11f4a1a98",
+        "id": "2380306bdd053186",
         "type": "tabs",
         "children": [
           {
-            "id": "2bddd90a6db10110",
+            "id": "a4a4e9057eedc00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP 1370 Distributed Computing/Hadoop.md",
-                "mode": "preview",
+                "file": "CP 3566 Java III/1.0 Web programming Architecture/1.1 Client Side Technologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Client Side Technologies"
+            }
+          },
+          {
+            "id": "9a0824f7a809bc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 3566 Java III/CP3566 Syllabus.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hadoop"
+              "title": "CP3566 Syllabus"
             }
           },
           {
-            "id": "d6e42e406cbf52ef",
+            "id": "0e2724f1b2ab127c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP 3566 Java III/CP3566 Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CP3566 Syllabus"
+            }
+          },
+          {
+            "id": "af35de3e128162f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP 1370 Distributed Computing/Hadoop.md",
+                "file": "CP 1370 Distributed Computing/Big Data Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hadoop"
-            }
-          },
-          {
-            "id": "9fdfe7484e69427d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP 3000 Emerging Trends/syllabus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "syllabus"
+              "title": "Big Data Overview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,40 +217,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fdfe7484e69427d",
+  "active": "af35de3e128162f7",
   "lastOpenFiles": [
-    "CP 1370 Distributed Computing/Hadoop.md",
-    "CP 3000 Emerging Trends/syllabus.md",
-    "map reduce class 3.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.10 Java web App Components.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.9 Jarkarta EE.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.6 Web Services APIs and Microservices.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.5 HTTP Information Flow.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.4 Common Architecture Patterns.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.3 Popular Java Frameworks.md",
+    "Untitled.md",
+    "CP 3566 Java III/CP3566 Syllabus.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.2 Other Java Web DB Abstractions.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.1 The JDBC Architecture.md",
+    "CP 3566 Java III/00 Major Topics/1.0 Web Programming Architecture.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.7 Utilizing Various JDBC Interfaces.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.8 Enterprize Java and JDBC.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.6 Create Reusable Database Queries.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.5 Update Relational Data using JDBC CRUD.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.4 Performing Queries with JDBC.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework/2.3 Connect to a Db using JDBC.md",
+    "CP 3566 Java III/2.0 DBs in the Java Web Framework",
+    "CP 3566 Java III/00 Major Topics",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.8 Java DB Integrations.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.7 Multi tier Architectures.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.2 Server Side Technologies.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/1.1 Client Side Technologies.md",
+    "CP 3566 Java III/1.0 Web programming Architecture/Untitled.md",
+    "1.0.md",
+    "1.2.md",
+    "CP 3566 Java III/java class 4.md",
     "CP 1370 Distributed Computing/CP1370 Syllabus.md",
-    "Pasted image 20250113133543.png",
-    "Pasted image 20250113134012.png",
-    "Pasted image 20250113134305.png",
+    "CP 3566 Java III/1.0 Web programming Architecture",
+    "Pasted image 20250120115952.png",
+    "CP 3566 Java III/1.0",
+    "CP 1370 Distributed Computing/Labs",
+    "CP 3566 Java III/Untitled.canvas",
+    "images/java",
+    "images",
+    "CR 2980 Capstone/Submission Documents/Copy of Pandamics Document.pdf",
+    "CR 2980 Capstone/Submission Documents",
+    "images/java/Pasted image 20250113133543.png",
+    "images/java/Pasted image 20250113134012.png",
+    "images/java/Pasted image 20250113134305.png",
     "Pasted image 20250114105812.png",
     "Pasted image 20250114110342.png",
     "Pasted image 20250114110111.png",
     "Pasted image 20250114105800.png",
-    "CP 3566 Java III/CP3566 Syllabus.md",
-    "CP 3566 Java III/Intro to Web Programming Architectures.md",
-    "CP 1370 Distributed Computing/Big Data Overview.md",
-    "CP 1370 Distributed Computing/Class 1.md",
-    "CP 1370 Distributed Computing/hadoop overview.md",
-    "Pasted image 20250113132308.png",
-    "Pasted image 20250113132324.png",
+    "images/java/Pasted image 20250113132308.png",
+    "images/java/Pasted image 20250113132324.png",
     "assets",
-    "Pasted image 20250113132139.png",
-    "class 2.md",
-    "CR 2980 Capstone/Syllabus.md",
-    "CP 3010 Server Side Programming/CP3010 Syllabus.md",
-    "Work Term Seminar",
-    "CP 3000 Emerging Trends",
-    "CP 1370 Distributed Computing",
-    "Welcome.md",
-    "Untitled.canvas",
-    "syllaus.md",
-    "CP 3010 Server Side Programming",
-    "CP",
-    "CR 2980 Capstone",
-    "CP 3566 Java III"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+> numpy is shipped with standard python packages. to add it to your python file so that you can use it prepend `import numpy` to the top of your file

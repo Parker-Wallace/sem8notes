@@ -4,16 +4,7 @@
 
 **COURSE DESCRIPTION:** 
 
-This is the third course in the Java sequence and will extend a student’s Java knowledge to  
-include web applications. Many of today’s popular Java web frameworks are built on top of the  
-Servlet and Jakarta Server Page specifications and base libraries. To fully understand how these  
-frameworks, operate, and to be able to take full advantage of the facilities they offer, students  
-will learn the foundations that these frameworks are built on. This course will explore how it is  
-possible to build a web application using these fundamental technologies, as well as learning  
-techniques to manipulate databases using Java Database Connectivity (JDBC), and the creation  
-of web components utilizing the latest Java web frameworks (examples may include Spring,  
-Struts, Java Server Faces, GWT, etc.). Students will demonstrate deploying web-based  
-frameworks that are secure and stable and fully support API and web services.  
+This is the third course in the Java sequence and will extend a student’s Java knowledge to include web applications. Many of today’s popular Java web frameworks are built on top of the Servlet and Jakarta Server Page specifications and base libraries. To fully understand how these frameworks, operate, and to be able to take full advantage of the facilities they offer, students will learn the foundations that these frameworks are built on. This course will explore how it is possible to build a web application using these fundamental technologies, as well as learning techniques to manipulate databases using Java Database Connectivity (JDBC), and the creation of web components utilizing the latest Java web frameworks (examples may include Spring, Struts, Java Server Faces, GWT, etc.). Students will demonstrate deploying web-based frameworks that are secure and stable and fully support API and web services.  
 
 **PREREQUISITES:** 
 CP2561 – Java Programming II  
@@ -42,26 +33,26 @@ ISBN: 0-13-147434-0
 5. Advanced Java Framework programming
 
 ## LEARNING OBJECTIVES:  
-1. Web Programming Architecture  
-	1. Discuss client-side technologies such as (but not limited to):  
-		1. HTML  
-		2. CSS  
-		3. JavaScript  
-		4. HTTP  
-	2. Discuss server-side technologies such as (but not limited to):  
+1. Web Programming Architecture
+	1. [Discuss client-side technologies such as (but not limited to): ](1.1%20Client%20Side%20Technologies)
+		1. [HTML](1.1%20Client%20Side%20Technologies#HTML)  
+		2. [CSS](1.1%20Client%20Side%20Technologies#CSS)  
+		3. [JavaScript](1.1%20Client%20Side%20Technologies#JavaScript)  
+		4. [HTTP](1.1%20Client%20Side%20Technologies#HTTP)  
+	2. [Discuss server-side technologies such as (but not limited to):](1.2%20Server%20Side%20Technologies)
 		1. Java  
 		2. Java Persistence API (JPA)  
 		3. Java Application Servers  
-	3. Explore popular Java frameworks such as (but not limited to) Spring  
-	4. Analyze common software architecture patterns, including:  
+	3. [Explore popular Java frameworks such as (but not limited to) Spring](1.3%20Popular%20Java%20Frameworks)
+	4. [Analyze common software architecture patterns, including:](1.4%20Common%20Architecture%20Patterns)  
 		1. Client-server  
 		2. Peer-to-peer  
 		3. Model-view-controller (MVC)  
 		4. Micro services  
 		5. Event driving  
 		6. Layered  
-	5. Explain, utilizing diagrams, the flow of information to and from a server in a simple HTTP document  
-	6. Differentiate between web services, APIs and microservices  
+	5. [Explain, utilizing diagrams, the flow of information to and from a server in a simple HTTP document  ](1.5%20HTTP%20Information%20Flow.md)
+	6. [Differentiate between web services, APIs and microservices  ](1.6%20web%20Services%20APIs%20andMicroservices )
 	7. Illustrate multi-tier architectures such as (but not limited to):  
 		1. Presentation  
 		2. Application/business logic  

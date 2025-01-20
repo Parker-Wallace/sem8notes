@@ -22,9 +22,13 @@ Topics are selected each time this course is offered. The course may be done thr
 self-directed research or a combination of methods. The course will contain practical projects  
 and applications. Assessment will vary with the material covered and the projects completed.  
 
-LEARNING OBJECTIVES: Depends upon the topic(s) selected  
+LEARNING OBJECTIVES: Depends upon the topic(s) selected   
 
-EVALUATION: Depends upon the topic(s) selected  
+| Evalutation | Weight |
+| ----------- | ------ |
+| assignments | 60 %   |
+| tests       | 40%    |
+
 
 DATE DEVELOPED: January 2019 DATE REVIEWED:  
 REVISION NUMBER: DATE REVISED:  
